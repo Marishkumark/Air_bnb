@@ -5,8 +5,6 @@
 
 ## Overview
 
-Air_bnb is a [brief description of your project]. It serves as [mention the main purpose or functionality of your project].
-
 Check out the live demo: [Air_bnb Demo](https://thunderous-fudge-4eb521.netlify.app/)
 
 
@@ -47,12 +45,14 @@ To run this project locally, follow these steps:
    The application will be available at `http://localhost:3000`.
 
 
-## Contributing
+Issues
+------
 
-Feel free to contribute to the project by opening issues or submitting pull requests. Please follow the [contributing guidelines](CONTRIBUTING.md).
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Marishkumark/PSD_UI_Design/issues).
 
-## License
+License
+-------
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Marishkumark/License/blob/main/README.md) file for details.
 
----
+* * * * *
