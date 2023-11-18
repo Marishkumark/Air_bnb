@@ -9,11 +9,6 @@ Air_bnb is a [brief description of your project]. It serves as [mention the main
 
 Check out the live demo: [Air_bnb Demo](https://thunderous-fudge-4eb521.netlify.app/)
 
-## Features
-
-- [List key features or functionalities of your project]
-
-## Getting Started
 
 To run this project locally, follow these steps:
 
@@ -51,13 +46,6 @@ To run this project locally, follow these steps:
 
    The application will be available at `http://localhost:3000`.
 
-## Folder Structure
-
-The project has the following structure:
-
-- `src/`: Contains the source code of the application.
-
-  - [Explain the key folders or files]
 
 ## Contributing
 
